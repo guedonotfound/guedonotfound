@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/guedonotfound?logo=github&style=for
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="36" alt="Python" /></a>
 <a href="http://www.cplusplus.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="36" alt="C++" /></a>
 <a href="www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="36" alt="C" /></a>
-<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)" height="36" alt="Arduino" /></a>
+<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="36" alt="Arduino" /></a>
 <a href="www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="36" alt="Windows" /></a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="36" alt="Ubuntu" /></a>
 </p>
@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/guedonotfound?logo=github&style=for
 
 ### Workstation Specs
 
-<p align="left"> <a href="https://www.intel.com/content/www/us/en/products/sku/190884/intel-core-i59600kf-processor-9m-cache-up-to-4-60-ghz/specifications.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Intel%20Core_i5_9600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-ambrogi/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32" /></a> <a href="https://www.youtube.com/guedesbrogidrumschannel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" /></a></p>
+<p align="left"> <a href="https://www.intel.com/content/www/us/en/products/sku/190884/intel-core-i59600kf-processor-9m-cache-up-to-4-60-ghz/specifications.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Intel%20Core_i5_9600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-ambrogi/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32" /></a></p>
 
 ### Badges
 
