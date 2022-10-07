@@ -21,13 +21,13 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 ### Skills
 
 <p align="left">
-<a href="https://www.oracle.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="36" height="36" alt="Mysql" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="36" height="36" alt="Python" /></a>
-<a href="http://www.cplusplus.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="36" height="36" alt="C++" /></a>
-<a href="www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="36" height="36" alt="C" /></a>
-<a href="www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="36" height="36" alt="Windows" /></a>
-<a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="36" height="36" alt="Ubuntu" /></a>
+<a href="https://www.oracle.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="36" alt="Oracle" /></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="36" alt="Mysql" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="36" alt="Python" /></a>
+<a href="http://www.cplusplus.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="36" alt="C++" /></a>
+<a href="www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="36" alt="C" /></a>
+<a href="www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="36" alt="Windows" /></a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="36" alt="Ubuntu" /></a>
 </p>
 
 ### Socials
