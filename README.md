@@ -9,7 +9,7 @@ I'm a 24 years old developer learning since I was 17. I love to code, create new
 I am also a student at [UNISAL](https://unisal.br), one of the [95 salesian institutions around the world, located in 22 countries](https://ius-sdb.com/ius-world-networks/).
 
 * 🌍  I'm based in Lorena/SP, Brazil
-* ✉️  You can contact me at [ambrogi_@outlook.com](mailto:ambrogi_@outlook.com)
+* ✉️  You can contact me at [ambrogi@outlook.com.br](mailto:ambrogi_@outlook.com)
 * 🚀  I'm currently working on [DKSOFT](https://suportedksoft.com.br)
 * 🧠  I'm learning Python, Arduino and Firebird Database
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
