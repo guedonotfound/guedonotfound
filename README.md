@@ -1,10 +1,10 @@
 Hi 👋 My name is Gabriel
 ==========================
 
-Back-end Software Developer
+Full Stack Software Developer
 -----------------------------
 
-I'm a 25 years old developer learning since I was 17. I love to code, create new stuff, discover new technologies and dive deep into solving problems. My main focus are back-end and database development, making applications that impact the life of thousands of users.
+I'm a 27 years old developer learning since I was 17. I love to code, create new stuff, discover new technologies and dive deep into solving problems. My main focus are back-end and database development, making applications that impact the life of thousands of users.
 
 I am also a student at [UNISAL](https://unisal.br), one of the [95 salesian institutions around the world, located in 22 countries](https://ius-sdb.com/ius-world-networks/).
 
